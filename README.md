@@ -579,7 +579,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **📖 Documentation** - Check this README and [Orion-API docs](https://github.com/Arinonia/orion-api)
 - **🐛 Bug Reports** - [Issues](https://github.com/Arinonia/orion-core/issues)
 - **💬 Questions** - [Discussions](https://github.com/Arinonia/orion-core/discussions)
-- **🔗 Community** - Join our [Discord Server](https://discord.gg/your-invite)
+- **🔗 Community** - Join our [Discord Server](https://discord.gg/XQnNJYv)
 
 ## 🔗 Related Projects
 
